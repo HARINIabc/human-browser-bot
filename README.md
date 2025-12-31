@@ -36,7 +36,6 @@ human-browser-bot/
 ├── config/ # Centralized configuration
 ├── flow/ # Simulated user journey
 └── README.md
-
 ## Running the Demo
 
 ### Prerequisites
