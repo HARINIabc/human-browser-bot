@@ -14,7 +14,7 @@ The goal is **not** to automate any real platform, but to showcase how realistic
 - Enforce **time-based scheduling** and **rate limits**
 - Demonstrate **anti-bot–aware design thinking**
 - Maintain a **clean, extensible Go project structure**
-- Provide a safe demo flow without interacting with real websites
+- Provide a demo flow without interacting with real websites
 
 ---
 
